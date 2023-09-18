@@ -109,10 +109,10 @@ const Menu: FC<MenuProps> = ({}) => {
             </List>
             <List
                 target="_blank"
-                link="https://github.com/nwaliaez/filetransfer-webrtc"
+                link="http://allaboutcs.liveblog365.com/"
                 effect="slideUp"
             >
-                <Share2 /> File Sharing
+                <Share2 /> AllaboutCS
             </List>
 
         </div>
