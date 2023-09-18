@@ -9,6 +9,7 @@ import {
     otherCards,
     projectCard,
     web3Cards,
+
 } from '@/components/utils/Data';
 
 export default function Home() {

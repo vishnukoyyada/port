@@ -75,7 +75,7 @@ export const frontendCard: ISectionCardData[] = [
     },
 
     {
-        id: 3,
+        id: 2,
         title: 'Javascript, Typescript',
         src: '/tech/frontend/jsts.jpeg',
         exp: '1 day ago',
@@ -83,7 +83,7 @@ export const frontendCard: ISectionCardData[] = [
         progress: 85,
     },
     {
-        id: 4,
+        id: 3,
         title: 'Reactjs',
         src: '/tech/frontend/reactjs.jpg',
         exp: '1 day ago',
@@ -91,12 +91,47 @@ export const frontendCard: ISectionCardData[] = [
         progress: 80,
     },
     {
-        id: 5,
+        id: 4,
         title: 'Nextjs 13',
         src: '/tech/frontend/nextjs13.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 80,
+    },
+];
+
+export const web3Cards: ISectionCardData[] = [
+    {
+        id: 2,
+        title: 'Hardhat',
+        src: '/tech/web3/hardhat.jpeg',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 80,
+    },
+    {
+        id: 3,
+        title: 'Metamask',
+        src: '/tech/web3/metamask.webp',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 90,
+    },
+    {
+        id: 4,
+        title: 'Chainlink',
+        src: '/tech/web3/chainlink.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 80,
+    },
+    {
+        id: 5,
+        title: 'OpenZeppelin',
+        src: '/tech/web3/openzeppelin.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
     },
 ];
 
@@ -119,22 +154,6 @@ export const backendCard: ISectionCardData[] = [
     },
     {
         id: 3,
-        title: 'DenoJs',
-        src: '/tech/backend/denojs.webp',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 60,
-    },
-    {
-        id: 4,
-        title: 'Next Auth',
-        src: '/tech/backend/nextauth.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
-    {
-        id: 5,
         title: 'PHP',
         src: '/tech/backend/php.png',
         exp: '1 day ago',
@@ -162,22 +181,6 @@ export const databaseCard: ISectionCardData[] = [
     },
     {
         id: 3,
-        title: 'Redis',
-        src: '/tech/database/redis.jpeg',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
-    {
-        id: 4,
-        title: 'PostgreSQL',
-        src: '/tech/database/postgres.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
-    {
-        id: 5,
         title: 'Elastic Search',
         src: '/tech/database/elasticSearch.png',
         exp: '1 day ago',
@@ -215,57 +218,6 @@ export const devopsCards: ISectionCardData[] = [
         id: 4,
         title: 'Jenkins',
         src: '/tech/devops/jenkins.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
-    {
-        id: 5,
-        title: 'Terraform',
-        src: '/tech/devops/terraform.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 60,
-    },
-];
-
-export const web3Cards: ISectionCardData[] = [
-    {
-        id: 1,
-        title: 'Solidity',
-        src: '/tech/web3/solidity.jfif',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
-    {
-        id: 2,
-        title: 'Hardhat',
-        src: '/tech/web3/hardhat.jpeg',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 80,
-    },
-    {
-        id: 3,
-        title: 'Metamask',
-        src: '/tech/web3/metamask.webp',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
-    {
-        id: 4,
-        title: 'Chainlink',
-        src: '/tech/web3/chainlink.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 80,
-    },
-    {
-        id: 5,
-        title: 'OpenZeppelin',
-        src: '/tech/web3/openzeppelin.png',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 70,
