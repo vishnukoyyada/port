@@ -21,18 +21,18 @@ const Intro: FC<IntroProps> = ({}) => {
                     <div className="flex gap-4">
                         <List variant="info" sizes="xs">
                             <Eye size={16} />
-                            2,36,898
+                            130
                         </List>
                         <List variant="info" sizes="xs">
-                            <History size={16} /> 1 month ago
+                            <History size={16} /> 1 year ago
                         </List>
                         <List variant="info" sizes="xs">
-                            <ThumbsUp size={16} /> 23,729
+                            <ThumbsUp size={16} /> 23
                         </List>
                     </div>
                 </div>
                 <div className="text-secondary text-sm mt-2 md:mt-0  max-w-[500px]">
-                    Join me, Vishnu, aka EZ, on an exciting coding
+                    Join me, Vishnu, on an exciting coding
                     journey! Together, we&apos;ll delve into a world of
                     knowledge, discover innovative ideas, embrace quick tips,
                     master clever tricks, conquer coding challenges, implement
