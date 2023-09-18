@@ -57,28 +57,28 @@ const Menu: FC<MenuProps> = ({}) => {
             </List>
             <List
                 target="_blank"
-                link="https://github.com/nwaliaez"
+                link="https://github.com/vishnukoyyada/"
                 effect="slideUp"
             >
                 <Github color="#2a9d8f" /> Github
             </List>
             <List
                 target="_blank"
-                link="https://www.youtube.com/channel/UCWYz4W6m1toUP7x0M1od3fA"
+                link="https://www.youtube.com/channel/UCIKHg6VWL2t-Pm5Paz_Teag"
                 effect="slideUp"
             >
                 <Youtube color="#e63946" /> Youtube
             </List>
             <List
                 target="_blank"
-                link="https://stackoverflow.com/users/20331641/neeraj-walia"
+                link="https://leetcode.com/vishnukoyyada03/"
                 effect="slideUp"
             >
                 <Layers color="#f77f00" /> Stack overflow
             </List>
             <List
                 target="_blank"
-                link="https://www.linkedin.com/in/ezSnippet/"
+                link="https://www.linkedin.com/in/vishnu-vardhan-326901213/"
                 effect="slideUp"
             >
                 <Linkedin color="#0277b5" /> Linkedin
