@@ -42,7 +42,7 @@ export const projectCard: ISectionCardData[] = [
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 100,
-        href: 'http://allaboutcs.liveblog365.com/',
+        href: 'https://github.com/vishnukoyyada/AllAboutCS',
     },
 ];
 
