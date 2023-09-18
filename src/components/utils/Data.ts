@@ -115,14 +115,6 @@ export const backendCard: ISectionCardData[] = [
     },
     {
         id: 2,
-        title: 'ExpressJs',
-        src: '/tech/backend/express.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
-    {
-        id: 3,
         title: 'PHP',
         src: '/tech/backend/php.png',
         exp: '1 day ago',
