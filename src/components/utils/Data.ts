@@ -73,14 +73,7 @@ export const frontendCard: ISectionCardData[] = [
         snippetCount: 1128,
         progress: 90,
     },
-    {
-        id: 2,
-        title: 'Tailwind',
-        src: '/tech/frontend/tailwind.jpg',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
+
     {
         id: 3,
         title: 'Javascript, Typescript',
