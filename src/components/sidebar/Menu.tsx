@@ -42,7 +42,7 @@ const Menu: FC<MenuProps> = ({}) => {
             <List link="/" effect="slideUp">
                 <Code /> Snippets
             </List>
-            <List link="https://www.instagram.com/ezsnippet/" effect="slideUp">
+            <List link="https://www.instagram.com/tilluvishnu14_03/" effect="slideUp">
                 <Video /> Videos
             </List>
 
@@ -50,7 +50,7 @@ const Menu: FC<MenuProps> = ({}) => {
             <div className="mt-5">Socials</div>
             <List
                 target="_blank"
-                link="https://www.instagram.com/ezsnippet/"
+                link="https://www.instagram.com/tilluvishnu14_03/"
                 effect="slideUp"
             >
                 <Instagram color="#b5179e" /> Instagram
