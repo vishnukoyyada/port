@@ -90,14 +90,6 @@ export const frontendCard: ISectionCardData[] = [
         snippetCount: 1128,
         progress: 80,
     },
-    {
-        id: 4,
-        title: 'Nextjs 13',
-        src: '/tech/frontend/nextjs13.jpeg',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 80,
-    },
 ];
 
 export const web3Cards: ISectionCardData[] = [
@@ -109,30 +101,7 @@ export const web3Cards: ISectionCardData[] = [
         snippetCount: 1128,
         progress: 80,
     },
-    {
-        id: 3,
-        title: 'Metamask',
-        src: '/tech/web3/metamask.webp',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 90,
-    },
-    {
-        id: 4,
-        title: 'Chainlink',
-        src: '/tech/web3/chainlink.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 80,
-    },
-    {
-        id: 5,
-        title: 'OpenZeppelin',
-        src: '/tech/web3/openzeppelin.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
+
 ];
 
 export const backendCard: ISectionCardData[] = [
@@ -244,6 +213,30 @@ export const otherCards: ISectionCardData[] = [
     {
         id: 3,
         title: 'GraphQl',
+        src: '/tech/others/graphql.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 4,
+        title: 'C++',
+        src: '/tech/others/graphql.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 5,
+        title: 'Java',
+        src: '/tech/others/graphql.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 6,
+        title: 'Python',
         src: '/tech/others/graphql.png',
         exp: '1 day ago',
         snippetCount: 1128,
