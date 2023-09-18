@@ -109,7 +109,7 @@ const Menu: FC<MenuProps> = ({}) => {
             </List>
             <List
                 target="_blank"
-                link="http://allaboutcs.liveblog365.com/"
+                link="https://github.com/vishnukoyyada/AllAboutCS"
                 effect="slideUp"
             >
                 <Share2 /> AllaboutCS
