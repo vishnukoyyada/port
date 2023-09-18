@@ -82,14 +82,6 @@ export const frontendCard: ISectionCardData[] = [
         snippetCount: 1128,
         progress: 85,
     },
-    {
-        id: 3,
-        title: 'Reactjs',
-        src: '/tech/frontend/reactjs.jpg',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 80,
-    },
 ];
 
 export const web3Cards: ISectionCardData[] = [
