@@ -88,24 +88,24 @@ const Menu: FC<MenuProps> = ({}) => {
             <div className="mt-5">Projects</div>
             <List
                 target="_blank"
-                link="https://github.com/nwaliaez/ezClothing"
+                link="https://github.com/vishnukoyyada/jarvis-voiceassistant"
                 effect="slideUp"
             >
-                <Shirt /> Ez CLothing
+                <Shirt /> Jarvis
             </List>
             <List
                 target="_blank"
-                link="https://github.com/nwaliaez/eCommerce"
+                link="https://github.com/vishnukoyyada/braintumorclassification-using-cnn"
                 effect="slideUp"
             >
-                <ShoppingCart /> eCommerce
+                <ShoppingCart /> BrainTumorClassification
             </List>
             <List
                 target="_blank"
-                link="https://github.com/nwaliaez/HardhatLottery"
+                link="https://github.com/vishnukoyyada/port"
                 effect="slideUp"
             >
-                <Ticket /> Lottery
+                <Ticket /> portfolio
             </List>
             <List
                 target="_blank"
@@ -114,20 +114,7 @@ const Menu: FC<MenuProps> = ({}) => {
             >
                 <Share2 /> File Sharing
             </List>
-            <List
-                target="_blank"
-                link="https://github.com/nwaliaez/dalleClone"
-                effect="slideUp"
-            >
-                <ImageIcon /> Dalle Clone
-            </List>
-            <List
-                target="_blank"
-                link="https://snake-nwaliaez.vercel.app/"
-                effect="slideUp"
-            >
-                <Scissors /> Ex Clone
-            </List>
+
         </div>
     );
 };
