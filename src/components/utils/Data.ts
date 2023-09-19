@@ -11,7 +11,7 @@ export const projectCard: ISectionCardData[] = [
     {
         id: 1,
         title: 'JARVIS',
-        src: '/projects/ezClothing.jpeg',
+        src: '/projects/jarvis.jpg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 100,
@@ -20,7 +20,7 @@ export const projectCard: ISectionCardData[] = [
     {
         id: 2,
         title: 'BRAIN TUMOR CLASSIFICATION',
-        src: '/projects/amazon.png',
+        src: '/projects/braintumor.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 100,
@@ -29,7 +29,7 @@ export const projectCard: ISectionCardData[] = [
     {
         id: 3,
         title: 'PORTFOLIO',
-        src: '/projects/eth.jpeg',
+        src: '/projects/portfolio.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 100,
@@ -38,7 +38,7 @@ export const projectCard: ISectionCardData[] = [
     {
         id: 4,
         title: 'ALLABOUTCS',
-        src: '/projects/fileSharing.jpeg',
+        src: '/projects/cs.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 100,
@@ -198,7 +198,7 @@ export const Programming: ISectionCardData[] = [
     {
         id: 1,
         title: 'JAVA',
-        src: '/tech/backend/nodejs.webp',
+        src: '/tech/languages/java.png',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 90,
@@ -206,7 +206,7 @@ export const Programming: ISectionCardData[] = [
     {
         id: 2,
         title: 'PYTHON',
-        src: '/tech/backend/php.png',
+        src: '/tech/languages/python.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 70,
@@ -214,7 +214,7 @@ export const Programming: ISectionCardData[] = [
     {
         id: 3,
         title: 'C++',
-        src: '/tech/backend/php.png',
+        src: '/tech/languages/cpp.png',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 70,
@@ -230,6 +230,7 @@ export const ComputerScience: ISectionCardData[] = [
         progress: 90,
     },
     {
+
         id: 3,
         title: 'AI/ML',
         src: '/tech/CS/aiml.jpeg',
