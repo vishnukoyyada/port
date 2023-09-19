@@ -217,3 +217,56 @@ export const otherCards: ISectionCardData[] = [
         progress: 70,
     },
 ];
+
+export const Programming: ISectionCardData[] = [
+    {
+        id: 1,
+        title: 'JAVA',
+        src: '/tech/backend/nodejs.webp',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 90,
+    },
+    {
+        id: 2,
+        title: 'PYTHON',
+        src: '/tech/backend/php.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 3,
+        title: 'C++',
+        src: '/tech/backend/php.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+];
+export const ComputerScience: ISectionCardData[] = [
+    {
+        id: 1,
+        title: 'DATA SCIENCE',
+        src: '/tech/backend/nodejs.webp',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 90,
+    },
+    {
+        id: 2,
+        title: 'COMPUTER NETWORKS',
+        src: '/tech/backend/php.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 3,
+        title: 'OS',
+        src: '/tech/backend/php.png',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+];

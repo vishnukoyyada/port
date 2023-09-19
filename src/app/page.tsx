@@ -9,6 +9,8 @@ import {
     otherCards,
     projectCard,
     web3Cards,
+    Programming,
+    ComputerScience,
 
 } from '@/components/utils/Data';
 
@@ -19,12 +21,15 @@ export default function Home() {
             <div className="flex flex-col gap-10 lg:px-10">
                 <Hero />
                 <CardSection title="Projects" data={projectCard} />
+                <CardSection title="Languages" data={Programming} />
+                <CardSection title="CS" data={ComputerScience} />
                 <CardSection title="Frontend" data={frontendCard} />
                 <CardSection title="Backend" data={backendCard} />
                 <CardSection title="Database" data={databaseCard} />
                 <CardSection title="DevOps" data={devopsCards} />
                 <CardSection title="Web3" data={web3Cards} />
                 <CardSection title="Others" data={otherCards} />
+                
             </div>
         </div>
     );
