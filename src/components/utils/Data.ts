@@ -192,30 +192,6 @@ export const otherCards: ISectionCardData[] = [
         snippetCount: 1128,
         progress: 70,
     },
-    {
-        id: 4,
-        title: 'C++',
-        src: '/tech/others/graphql.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
-    {
-        id: 5,
-        title: 'Java',
-        src: '/tech/others/graphql.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
-    {
-        id: 6,
-        title: 'Python',
-        src: '/tech/others/graphql.png',
-        exp: '1 day ago',
-        snippetCount: 1128,
-        progress: 70,
-    },
 ];
 
 export const Programming: ISectionCardData[] = [
@@ -248,15 +224,23 @@ export const ComputerScience: ISectionCardData[] = [
     {
         id: 1,
         title: 'DATA SCIENCE',
-        src: '/tech/backend/nodejs.webp',
+        src: '/tech/CS/ds.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 90,
     },
     {
-        id: 2,
+        id: 3,
+        title: 'AI/ML',
+        src: '/tech/CS/aiml.jpeg',
+        exp: '1 day ago',
+        snippetCount: 1128,
+        progress: 70,
+    },
+    {
+        id: 4,
         title: 'COMPUTER NETWORKS',
-        src: '/tech/backend/php.png',
+        src: '/tech/CS/cn.jpeg',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 70,
@@ -264,7 +248,7 @@ export const ComputerScience: ISectionCardData[] = [
     {
         id: 3,
         title: 'OS',
-        src: '/tech/backend/php.png',
+        src: '/tech/CS/os.png',
         exp: '1 day ago',
         snippetCount: 1128,
         progress: 70,
